@@ -1,15 +1,5 @@
 /* display
  *  
- *  CSE 132 - Assignment 7
- *  
- *  Fill this out so we know whose assignment this is.
- *  
- *  Name: Karen Ye
- *  WUSTL Key: 454998
- *  
- *  Name:
- *  WUSTL Key:
- *  
  */
 
 #include "font.h"
